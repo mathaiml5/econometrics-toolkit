@@ -16,12 +16,14 @@ If **x** is the desired production vector, **x** must satisfy:
 
 **x=Cx+d**
 where 
+
 C= consumption matrix 
+
 d = open sector demand
 
 Solving for x we can find that
 
-**x=(I - C)^-1 x d**, 
+**x=(I - C)<sup>-1</sup>d**, 
 
 where I is the identity matrix
 
