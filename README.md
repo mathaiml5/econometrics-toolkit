@@ -1,6 +1,6 @@
 #  Econometric Modeling: Leontief Input-Output Model Using Linear Algebra
  
-### by Vishak Srikanth
+
 
 This program calculates the optimal demand for an open sector economy consiting of many sectors.
 
